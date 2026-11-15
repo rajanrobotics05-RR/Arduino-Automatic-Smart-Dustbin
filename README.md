@@ -111,7 +111,7 @@ Practical Robotics | Embedded Systems | IoT | Electronics Education
 
 ## 🔌 Circuit Diagram
 
-![Automatic Smart Dustbin – Rajan Robotics](%2A%2AAutomatic%20Smart%20Dustbin%20%E2%80%93%20Rajan%20Robotics%2A%2A.png)
+![Automatic Smart Dustbin – Rajan Robotics](Automatic%20Smart%20Dustbin%20%E2%80%93%20Rajan%20Robotics%2A%2A.png)
 
 ## 📜 License
 This project is licensed under the MIT License. See the `LICENSE` file for details.
